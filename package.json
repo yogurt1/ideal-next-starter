@@ -1,0 +1,27 @@
+{
+  "name": "gruzf-calc-widget",
+  "version": "1.0.0",
+  "description": "Gruzf order widget",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "singleQuote": true
+  },
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "prettier": "^1.16.4"
+  }
+}
